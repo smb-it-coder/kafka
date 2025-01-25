@@ -1,6 +1,3 @@
-Here’s the text converted into a markdown file format:
-
-```markdown
 # About Us
 
 **Coders Brain** is a global leader in its services, digital, and business solutions, partnering with clients to deliver exceptional outcomes.
@@ -177,4 +174,3 @@ We are seeking an experienced **Software Architect** to lead our technical trans
 ---
 
 Feel free to use this markdown file or request edits as needed!
-```
